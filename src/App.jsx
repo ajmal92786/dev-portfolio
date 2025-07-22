@@ -18,7 +18,7 @@ function App() {
             <div className="relative w-[250px] h-[300px]">
               <div className="h-full w-full bg-gray-800 rounded-t-2xl rounded-bl-2xl overflow-hidden">
                 <img
-                  src="./public/profile-pic-copy.jpeg"
+                  src="./profile-pic.jpeg"
                   alt="Portfolio"
                   className="w-full h-full object-cover rounded-t-2xl rounded-bl-2xl"
                 />

@@ -4,7 +4,7 @@ A personal portfolio website built with **React** and **Tailwind CSS**, showcasi
 
 ## 🚀 Live Demo
 
-🌐 [View Portfolio](https://your-portfolio-url.vercel.app)
+🌐 [View Portfolio](https://ajmal92786-portfolio.vercel.app/)
 
 ## 📌 About Me
 
@@ -12,13 +12,6 @@ Hi, I'm **Mohd Ajmal Raza** – a backend developer specializing in **Node.js**,
 I enjoy building scalable APIs, integrating external services, and writing clean, testable code.
 
 This portfolio is a reflection of my journey, tech stack, and projects I’ve built along the way.
-
----
-
-## 🛠️ Tech Stack
-
-- **Frontend**: React, Tailwind CSS
-- **Backend Projects (showcased)**: Node.js, Express, PostgreSQL, Supabase, Jest
 
 ---
 
@@ -41,20 +34,20 @@ portfolio/
 
 ---
 
-## 🖼️ Pages
+## 🖼️ Sections
 
 - **Landing Page** – Brief intro with a dev-themed illustration
 - **Projects** – Highlights of selected backend projects
-- **About Me** – Summary of skills and interests
+- **Tech Stack** – Summary of skills and interests
 - **Contact** – Email and GitHub link
 
 ---
 
 ## 🔗 Important Links
 
-- 💻 [GitHub Profile](https://github.com/your-github)
-- 📧 [Email Me](mailto:your-email@example.com)
-- 🔗 [LinkedIn](https://linkedin.com/in/your-profile)
+- 💻 [GitHub Profile](https://github.com/ajmal92786)
+- 📧 [Email Me](mailto:ajmalbly27@gmail.com)
+- 🔗 [LinkedIn](https://linkedin.com/in/mohd-ajmal-raza)
 
 ---
 
