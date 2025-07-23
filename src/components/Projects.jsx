@@ -7,7 +7,7 @@ const projects = [
       "A photo management API to search Unsplash images, add tags, save to collections, and track user history. Built using Node.js, Express, PostgreSQL (Supabase), and Sequelize.",
     link: "https://github.com/ajmal92786/snapvault",
     // image: "/snapvault.png",
-    demo: "https://snapvault-demo.vercel.app",
+    demo: "https://snap-vault-backend-ajmal-razas-projects.vercel.app",
     tech: [
       "Node.js",
       "Express",
@@ -23,7 +23,7 @@ const projects = [
       "Backend API integrating TMDB for movie data. Allows favorites, searching, and saving. Built using Node.js, Express, PostgreSQL, and Sequelize.",
     link: "https://github.com/ajmal92786/MovieCrate-Backend",
     // image: "/moviecrate.png",
-    demo: "https://snapvault-demo.vercel.app",
+    // demo: "https://snapvault-demo.vercel.app",
     tech: ["Node.js", "Express", "PostgreSQL", "Sequelize", "TMDB API"],
   },
   {
@@ -32,7 +32,7 @@ const projects = [
       "Document management system with folder restrictions, file metadata, and Cloudinary uploads. Built using Node.js, Sequelize, Supabase, and Multer.",
     link: "https://github.com/ajmal92786/The-Doc-Store",
     // image: "/docstore.png", ]
-    demo: "https://snapvault-demo.vercel.app",
+    // demo: "https://snapvault-demo.vercel.app",
     tech: ["Node.js", "Express", "PostgreSQL", "Supabase", "Sequelize"],
   },
   {
@@ -41,7 +41,7 @@ const projects = [
       "Secure authentication system with frontend & backend using token-based OAuth and protected routes.",
     link: "https://github.com/ajmal92786/oauth-server",
     // image: "/oauth.png",
-    demo: "https://snapvault-demo.vercel.app",
+    demo: "https://oauth-server-eac27.vercel.app/",
     tech: ["Node.js", "Express", "PostgreSQL", "Supabase", "Sequelize"],
   },
 ];
@@ -54,7 +54,7 @@ export default function Projects() {
     <section id="projects" className="py-12 px-4 max-w-5xl mx-auto">
       <div className="flex items-center gap-4 mb-8">
         <h2 className="text-3xl font-bold text-[#ccd6f6]">Featured Projects</h2>
-        <div className="h-[1px] bg-[#233554] flex-grow"></div>
+        <div className="h-[1px] bg-white flex-grow"></div>
       </div>
 
       <div className="grid md:grid-cols-3 gap-4 justify-items-center">

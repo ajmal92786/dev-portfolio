@@ -16,11 +16,11 @@ function App() {
           {/* Left side - Image */}
           <div className="flex flex-col justify-center items-center md:items-start text-center md:text-left gap-x-3 gap-y-7 w-full md:w-1/2 px-1 py-5">
             <div className="relative w-[250px] h-[300px]">
-              <div className="h-full w-full bg-gray-800 rounded-t-2xl rounded-bl-2xl overflow-hidden">
+              <div className="h-full w-full bg-gray-800 overflow-hidden">
                 <img
                   src="./profile-pic.jpeg"
                   alt="Portfolio"
-                  className="w-full h-full object-cover rounded-t-2xl rounded-bl-2xl"
+                  className="w-full h-full object-cover"
                 />
               </div>
               <div className="absolute -bottom-4 -right-4 w-2/3 h-2/3 border-2 border-white/20 -z-10"></div>
@@ -38,7 +38,7 @@ function App() {
               write clean, testable code. Always exploring new tech and
               improving as a problem solver.
             </p>
-            <div className="flex flex-row flex-nowrap items-center gap-4 pt-4 justify-center md:justify-start w-full">
+            <div className="flex flex-row flex-wrap items-center gap-4 pt-4 justify-center md:justify-start w-full">
               <a
                 href="#projects"
                 className="bg-white text-black px-3 py-2 whitespace-nowrap hover:bg-gray-200 transition-colors"
